@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=Triangulo
+comment1.params=
+comment1.target=double\ getLadoA()
+comment2.params=ladoA
+comment2.target=void\ setLadoA(double)
+comment3.params=
+comment3.target=double\ getLadoB()
+comment4.params=ladoB
+comment4.target=void\ setLadoB(double)
+comment5.params=
+comment5.target=double\ getLadoC()
+comment6.params=ladoC
+comment6.target=void\ setLadoC(double)
+comment7.params=
+comment7.target=java.lang.String\ getOrdem()
+comment8.params=
+comment8.target=java.lang.String\ tipoTriangulo()
+comment9.params=
+comment9.target=java.lang.String\ formaTriangulo()
+numComments=10

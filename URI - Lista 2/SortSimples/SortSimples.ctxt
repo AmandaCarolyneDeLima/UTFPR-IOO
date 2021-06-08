@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=SortSimples
+comment1.params=
+comment1.target=int\ getValorA()
+comment2.params=valorA
+comment2.target=void\ setValorA(int)
+comment3.params=
+comment3.target=int\ getValorB()
+comment4.params=valorB
+comment4.target=void\ setValorB(int)
+comment5.params=
+comment5.target=int\ getValorC()
+comment6.params=valorC
+comment6.target=void\ setValorC(int)
+comment7.params=
+comment7.target=java.lang.String\ ordenar()
+comment8.params=
+comment8.target=java.lang.String\ getExibir()
+numComments=9

@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=ContaAgua
+comment1.params=
+comment1.target=int\ getN()
+comment2.params=n
+comment2.target=void\ setN(int)
+comment3.params=
+comment3.target=java.lang.String\ calculo()
+numComments=4

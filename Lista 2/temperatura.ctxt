@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=temperatura
+comment1.params=valorProd
+comment1.target=void\ setValorProd(float)
+comment2.params=
+comment2.target=float\ getValorProd()
+comment3.params=desc
+comment3.target=void\ setDesc(float)
+comment4.params=
+comment4.target=float\ getDesc()
+comment5.params=
+comment5.target=float\ pDesc()
+numComments=6

@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=InterfaceTexto
+comment1.params=
+comment1.target=InterfaceTexto()
+comment2.params=
+comment2.target=void\ executar()
+comment3.params=preco
+comment3.target=java.lang.String\ formateParaDuasCasasDecimais(double)
+comment4.params=
+comment4.target=void\ sln()
+comment5.params=s
+comment5.target=void\ sln(java.lang.String)
+numComments=6

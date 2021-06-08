@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=Relogio
+comment1.params=
+comment1.target=Relogio()
+comment2.params=periodo
+comment2.target=void\ setPeriodo(java.lang.String)
+comment3.params=
+comment3.target=void\ marcaRitmo()
+comment4.params=hora\ minuto\ periodo
+comment4.target=void\ ajustaHora(int,\ int,\ java.lang.String)
+comment5.params=
+comment5.target=java.lang.String\ getHora()
+comment6.params=
+comment6.target=void\ atualizaMostrador()
+comment7.params=
+comment7.target=void\ trocaPeriodo()
+numComments=8

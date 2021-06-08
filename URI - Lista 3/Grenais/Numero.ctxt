@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Numero
+comment1.params=inter
+comment1.target=void\ setInter(int)
+comment2.params=
+comment2.target=int\ getInter()
+comment3.params=gremio
+comment3.target=void\ setGremio(int)
+comment4.params=
+comment4.target=int\ getGremio()
+comment5.params=
+comment5.target=java.lang.String\ getCalcular()
+numComments=6

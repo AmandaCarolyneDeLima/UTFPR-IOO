@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=PainelNumerico
+comment1.params=limite
+comment1.target=PainelNumerico(int)
+comment2.params=
+comment2.target=void\ incrementa()
+comment3.params=
+comment3.target=java.lang.String\ getValorExibido()
+comment4.params=valor
+comment4.target=void\ setValor(int)
+comment5.params=
+comment5.target=int\ getValor()
+numComments=6

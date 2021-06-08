@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Ponto
+comment1.params=
+comment1.target=Ponto()
+comment2.params=x\ y
+comment2.target=Ponto(int,\ int)
+comment3.params=
+comment3.target=java.lang.String\ toString()
+numComments=4

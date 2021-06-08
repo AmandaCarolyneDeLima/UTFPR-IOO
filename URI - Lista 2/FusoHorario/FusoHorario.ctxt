@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=FusoHorario
+comment1.params=
+comment1.target=int\ getS()
+comment2.params=S
+comment2.target=void\ setS(int)
+comment3.params=
+comment3.target=int\ getT()
+comment4.params=T
+comment4.target=void\ setT(int)
+comment5.params=
+comment5.target=int\ getF()
+comment6.params=F
+comment6.target=void\ setF(int)
+comment7.params=
+comment7.target=java.lang.String\ calcFuso()
+numComments=8

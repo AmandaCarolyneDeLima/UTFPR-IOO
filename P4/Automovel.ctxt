@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Automovel
+comment1.params=placa\ numeroEixo
+comment1.target=Automovel(java.lang.String,\ int)
+comment2.params=
+comment2.target=java.lang.String\ getPlaca()
+comment3.params=
+comment3.target=java.lang.String\ getTipo()
+numComments=4

@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.target=Lavanderia
+comment1.params=
+comment1.target=int\ getN()
+comment10.params=sb
+comment10.target=void\ setSb(int)
+comment11.params=
+comment11.target=java.lang.String\ calc()
+comment2.params=n
+comment2.target=void\ setN(int)
+comment3.params=
+comment3.target=int\ getLa()
+comment4.params=la
+comment4.target=void\ setLa(int)
+comment5.params=
+comment5.target=int\ getLb()
+comment6.params=lb
+comment6.target=void\ setLb(int)
+comment7.params=
+comment7.target=int\ getSa()
+comment8.params=sa
+comment8.target=void\ setSa(int)
+comment9.params=
+comment9.target=int\ getSb()
+numComments=12

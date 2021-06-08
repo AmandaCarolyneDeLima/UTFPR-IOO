@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=Transporte
+comment1.params=placa\ numeroEixo
+comment1.target=Transporte(java.lang.String,\ int)
+comment2.params=
+comment2.target=java.lang.String\ getPlaca()
+comment3.params=
+comment3.target=int\ getNumeroDeEixos()
+comment4.params=
+comment4.target=double\ getTarifa()
+comment5.params=
+comment5.target=java.lang.String\ getTipo()
+comment6.params=
+comment6.target=java.lang.String\ getTipoDeTarifa()
+numComments=7

@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Pedagio
+comment1.params=
+comment1.target=Pedagio()
+comment2.params=transporte
+comment2.target=void\ registrarPassagemVeiculo(Transporte)
+comment3.params=
+comment3.target=java.util.List\ getTransporte()
+comment4.params=
+comment4.target=double\ getTotalArrecadado()
+numComments=5

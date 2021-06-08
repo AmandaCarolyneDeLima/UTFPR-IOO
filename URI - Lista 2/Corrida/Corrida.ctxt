@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Corrida
+comment1.params=
+comment1.target=double\ getCharreteA()
+comment2.params=n1\ d1\ v1
+comment2.target=void\ setCharreteA(int,\ int,\ int)
+comment3.params=
+comment3.target=double\ getCharreteB()
+comment4.params=n2\ d2\ v2
+comment4.target=void\ setCharreteB(int,\ int,\ int)
+comment5.params=
+comment5.target=java.lang.String\ calcular()
+numComments=6

@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=TempoDeJogo
+comment1.params=
+comment1.target=int\ getHoraInicial()
+comment2.params=horaInicial
+comment2.target=void\ setHoraInicial(int)
+comment3.params=
+comment3.target=int\ getHoraFinal()
+comment4.params=horaFinal
+comment4.target=void\ setHoraFinal(int)
+comment5.params=
+comment5.target=int\ duracaoJogo()
+numComments=6

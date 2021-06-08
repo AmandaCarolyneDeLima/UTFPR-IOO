@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Numero
+comment1.params=valor
+comment1.target=void\ setValor(int)
+comment2.params=
+comment2.target=int\ getValor()
+comment3.params=
+comment3.target=boolean\ ePrimo()
+comment4.params=
+comment4.target=java.lang.String\ ePrimoEmTexto()
+numComments=5

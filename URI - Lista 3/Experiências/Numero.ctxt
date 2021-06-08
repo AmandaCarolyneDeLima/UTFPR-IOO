@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=Numero
+comment1.params=numero
+comment1.target=void\ setNumero(int)
+comment2.params=
+comment2.target=int\ getNumero()
+comment3.params=tipo
+comment3.target=void\ setTipo(char)
+comment4.params=
+comment4.target=void\ getResult()
+comment5.params=
+comment5.target=java.lang.String\ toString()
+comment6.params=numero
+comment6.target=java.lang.String\ formateParaDuasCasasDecimais(float)
+numComments=7
